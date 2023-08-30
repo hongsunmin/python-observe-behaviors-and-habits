@@ -1,5 +1,5 @@
 # Introduction
-After reading "정리하는 뇌", originally "The Organized Mind", I realized the importance of planning, taking action, and following up regularly to make sure you're on track.
+After reading the book "정리하는 뇌”(English Books in their Original Language "The Organized Mind”), I realized the importance of planning, taking action, and following up regularly to make sure I'm on track.
 
 And i got the idea from ["Quantified Self Part 6 - 생산적인 하루에 대한 정량적인 표현과 4년간의 데이터 이야기"](https://dongjunlee.github.io/quantified%20self/QS_Part_6_Analysis_My_Life/) and started working on it.
 
